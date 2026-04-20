@@ -1,8 +1,8 @@
 # Assignment: Binary Search and Testing
 
-In this assignment, you will write tests for binary search functions before implementing them.
+In this assignment, I wrote tests for binary search functions before implementing them.
 
-## Instructions
+## Instructions given by the tutor
 
 1. Each student in the pair should accept the assignment to be added to the repository.
 2. In each pair, only one student creates a codespace.
